@@ -18,6 +18,7 @@
 <%-- HTML markup starts below --%>
 
 <div id="indexLeftColumn">
+  
     <div id="welcomeText">
         <p style="font-size: larger"><fmt:message key='greeting' /></p>
 

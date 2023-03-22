@@ -26,7 +26,6 @@
     <head>
         <link rel="stylesheet" type="text/css" href="/AffableBean/css/affablebean.css">
         <link rel="shortcut icon" href="/AffableBean/img/favicon.ico">
-
         <script src="/AffableBean/js/jquery-1.4.2.js" type="text/javascript"></script>
         <script src="/AffableBean/js/jquery-ui-1.8.4.custom.min.js" type="text/javascript"></script>
 
@@ -178,6 +177,7 @@
                       <a href="<c:url value='checkout'/>" class="bubble">
                         <fmt:message key="proceedCheckout"/>
                       </a>
+                      
                     </c:if>
                   </div>
 
